@@ -18,9 +18,9 @@ namespace FullscreenApp {
 
         private void ShowImageInFullscreen() {
             // Fenster maximieren und Bild anzeigen
+            this.BackgroundImage = global::FulscreenApp.Properties.Resources._3296364;
             this.FormBorderStyle = FormBorderStyle.None;
             this.WindowState = FormWindowState.Maximized;
-            this.BackgroundImage = Image.FromFile("D:\\Overlay\\FulscreenApp\\3296364.jpg"); // Pfad zum Bild anpassen
             this.BackgroundImageLayout = ImageLayout.Stretch;
         }
 

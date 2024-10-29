@@ -1,0 +1,9 @@
+D:\Overlay\FulscreenApp\bin\Release\FulscreenApp.exe.config
+D:\Overlay\FulscreenApp\bin\Release\FulscreenApp.exe
+D:\Overlay\FulscreenApp\bin\Release\FulscreenApp.pdb
+D:\Overlay\FulscreenApp\obj\Release\FulscreenApp.csproj.AssemblyReference.cache
+D:\Overlay\FulscreenApp\obj\Release\FulscreenApp.Properties.Resources.resources
+D:\Overlay\FulscreenApp\obj\Release\FulscreenApp.csproj.GenerateResource.cache
+D:\Overlay\FulscreenApp\obj\Release\FulscreenApp.csproj.CoreCompileInputs.cache
+D:\Overlay\FulscreenApp\obj\Release\FulscreenApp.exe
+D:\Overlay\FulscreenApp\obj\Release\FulscreenApp.pdb
