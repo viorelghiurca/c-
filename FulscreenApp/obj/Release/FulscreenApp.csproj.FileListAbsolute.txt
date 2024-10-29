@@ -7,3 +7,4 @@ D:\Overlay\FulscreenApp\obj\Release\FulscreenApp.csproj.GenerateResource.cache
 D:\Overlay\FulscreenApp\obj\Release\FulscreenApp.csproj.CoreCompileInputs.cache
 D:\Overlay\FulscreenApp\obj\Release\FulscreenApp.exe
 D:\Overlay\FulscreenApp\obj\Release\FulscreenApp.pdb
+D:\Overlay\FulscreenApp\obj\Release\FullscreenApp.Form1.resources
