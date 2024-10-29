@@ -18,7 +18,7 @@ namespace FullscreenApp {
 
         string url = "https://support.beko-monheim.de/articles/JSD-A-58/Phishing"; // Ersetze dies durch deinen gewünschten Link
 
-        public Form1() {              
+        public Form1() {
             ShowImageOnAllScreens();
             CopyToStartup(); // Methode zum Kopieren in den Autostart-Ordner
             InitializeComponent(); // Vom Designer generiert
